@@ -1,2 +1,2 @@
 # p_WFF
-pipelined Wave-Front-Fetch algorithm using FPGA
+pipelined Wave-Front-Fetch graphcut algorithm using FPGA
